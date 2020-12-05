@@ -3,14 +3,6 @@ Welcome to my account.
 
 ## My Github Stats
 
-<style>
-.container {
-    display: grid;
-    grid-template-columns: 35px 35px 35px 35px;
-    column-gap: 10px;
-}
-</style>
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True"/>
@@ -28,7 +20,7 @@ Welcome to my account.
 
 Feel free contacting me via the following links:
 
-<div align="center" style="display: grid; grid-template-columns: 35px 35px 35px 35px;column-gap: 10px;">
+<div align="center">
         <a href="https://www.linkedin.com/in/mostafaghadimi/">
             <img src="./icons/linkedin.png" width=32/>
         </a>
@@ -39,5 +31,8 @@ Feel free contacting me via the following links:
             <img src="./icons/telegram.png">
         <a href="https://mostafaghadimi.github.io/">
             <img src="./icons/user.png"/>
+        </a>
+        <a href="https://stackoverflow.com/users/7310077/mostafa-ghadimi">
+            <img src="./icons/stack-overflow.png">
         </a>
 </div>
