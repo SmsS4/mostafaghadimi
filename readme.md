@@ -28,7 +28,7 @@ Welcome to my account.
 
 Feel free contacting me via the following links:
 
-<div align="center" class="container">
+<div align="center" style="display: grid; grid-template-columns: 35px 35px 35px 35px;column-gap: 10px;">
     <div>
         <a href="https://www.linkedin.com/in/mostafaghadimi/">
             <img src="./icons/linkedin.png" width=32/>
