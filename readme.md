@@ -1,18 +1,19 @@
-## Hey this is Mostafa! 
+## Hey this is Mostafa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 Welcome to my account.
 
 ## My Github Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True&hide_title=true"/>
 </p>
 
 ## Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact&hide_title=true"/>
 
 </p>
 
@@ -36,3 +37,9 @@ Feel free contacting me via the following links:
             <img src="./icons/stack-overflow.png">
         </a>
 </div>
+
+<p align=center>
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=mostafaghadimi/mostafaghadimi">
+
+</p>
