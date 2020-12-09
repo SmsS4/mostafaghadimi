@@ -2,14 +2,16 @@
 
 Welcome to my account.
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact&langs_count=10"/>
-
-
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
 
 ## Contact Me
 
