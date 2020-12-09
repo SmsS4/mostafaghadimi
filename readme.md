@@ -2,20 +2,14 @@
 
 Welcome to my account.
 
-## My Github Stats
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True&hide_title=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaGhadimi&show_icons=True"/>
 
-## Most Used Languages
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact&langs_count=10"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaghadimi&layout=compact&hide_title=true&langs_count=10"/>
 
-</p>
 
 ## Contact Me
 
